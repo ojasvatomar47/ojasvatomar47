@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ojasva Tomar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently exploring **Next.js**
 
-- 💬 Ask me about **ReactJS, ExpressJS**
+- 💬 Ask me about **ReactJS, ExpressJS, MERN Stack**
 
 - 📫 How to reach me **ojasvatomar47@gmail.com**
 

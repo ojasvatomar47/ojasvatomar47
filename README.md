@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently exploring **Next.js**
 
-- 💬 Ask me about **ReactJS, ExpressJS, MERN Stack**
-
 - 📫 How to reach me **ojasvatomar47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
